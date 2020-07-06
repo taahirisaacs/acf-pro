@@ -1,0 +1,10 @@
+{
+    "name": "taahirisaacs/acf-pro",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahirisaacs/acf-pro",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+}
